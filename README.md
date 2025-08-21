@@ -1,4 +1,4 @@
-# Time-Series-Break-Down-of-Retail-Analysis
+# Time Series Break Down of Retail Analysis
 # Project Overview
 This project analyzes Walmart retail sales data to identify trends, seasonality, and patterns using time series analysis. The dataset consists of 4 files provided in Kaggle’s Walmart Sales Forecasting dataset.
 
